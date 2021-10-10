@@ -10,3 +10,4 @@ The architecture of your network will contain:
 
 A generator with a U-Net-based architecture.
 A discriminator represented by a convolutional PatchGAN classifier (proposed in the pix2pix paper).
+
